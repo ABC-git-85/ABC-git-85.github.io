@@ -2,22 +2,31 @@ h1 {
     font-size: 30px;
     text-align: center;
     font-family: Helvetica, sans-serif;
-    color: #30a536
+    color: #8700bd
 }
 
 h2 {
     font-size: 22px;
     text-align: center;
     font-family: Helvetica, sans-serif;
-    color: #7ec271
+    color: #d600a1
 }
 
 p {
     font-size: 20px;
-    text-align: left;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+    font-size: 25px;
+    color: #ffffff;
+    text-align: center;
     font-family: Helvetica, sans-serif;
 }
 
 body {
     background-color: #cac8c8;
+    background-image: url("https://img.freepik.com/premium-photo/abstract-background-design-images-wallpaper-ai-generated_643360-134561.jpg?w=740");
+    background-size: cover;
 }
